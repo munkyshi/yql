@@ -18,7 +18,7 @@ value: STRING | INT | FLOAT | TRUE | FALSE;
 TRUE: 'true';
 FALSE: 'false';
 FUNC: 'count'|'sum'|'avg'|'max'|'min';
-FIELDNAME: ([a-zA-Z]|'_')+;
+FIELDNAME: ([a-zA-Z]|'_'|'.')+;
 STRING: '\'' .*? '\'';
 fragment DIGIT: [0-9];
 INT: ('+'|'-')? DIGIT+;
