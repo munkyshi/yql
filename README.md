@@ -6,7 +6,7 @@
 YQL is very similar with the `where` part of sql. You can see it as another sql which also support comparison between two sets. YQL have nearly no new concepts, so you can use it well short after reading the examples.Though it's designed for rule engine, it can be widely used in your code logic.
 
 ### Install
-`go get github.com/caibirdme/yql`
+`go get github.com/munkyshi/yql`
 
 ### Exmaple
 See more examples in the `yql_test.go` and godoc.

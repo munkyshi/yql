@@ -3,7 +3,7 @@ package yql_test
 import (
 	"fmt"
 
-	"github.com/caibirdme/yql"
+	"github.com/munkyshi/yql"
 )
 
 func ExampleMatch() {

@@ -1,6 +1,7 @@
-// Generated from Yql.g4 by ANTLR 4.7.
+// Generated from internal/grammar/Yql.g4 by ANTLR 4.7.
 
-package grammar // Yql
+package parser // Yql
+
 import (
 	"fmt"
 	"reflect"

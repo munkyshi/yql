@@ -6,8 +6,8 @@ import (
 	"strconv"
 
 	"github.com/antlr/antlr4/runtime/Go/antlr"
-	"github.com/caibirdme/yql/internal/grammar"
-	"github.com/caibirdme/yql/internal/stack"
+	"github.com/munkyshi/yql/internal/grammar"
+	"github.com/munkyshi/yql/internal/stack"
 )
 
 type boolStack interface {
